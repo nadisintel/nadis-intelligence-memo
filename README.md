@@ -9,7 +9,7 @@ This is a public one-pager memo for Nadis—a new infrastructure layer designed 
 
 ---
 
-## 🔍 About Nadis
+## About Nadis
 
 Most companies are drowning in disconnected tools and fragmented workflows. Nadis helps organizations evolve from collections of individuals into unified, intelligent systems.
 
@@ -20,7 +20,7 @@ We’re building a three-layer product evolution:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Coming soon:  
 - SCALE Factor diagnostic flow  
@@ -29,7 +29,7 @@ Coming soon:
 
 ---
 
-## 🤝 Who This Is For
+## Who This Is For
 
 This memo is intended for:
 - SPC Fellows & Investors
@@ -39,7 +39,7 @@ This memo is intended for:
 
 ---
 
-## 🧭 Roadmap Preview
+## Roadmap Preview
 
 | Product | Timeline | Description |
 |--------|----------|-------------|
@@ -49,8 +49,8 @@ This memo is intended for:
 
 ---
 
-## 🗣 Contact
+## Contact
 
 **Ariana Abramson**, Founder  
-💬 [Book a call](https://calendly.com/YOURNAME)  
+💬 [Send an email] ariana.abramson@gmail.com  
 🌐 [nadis.ai](https://nadis.ai)  
