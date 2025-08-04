@@ -3,17 +3,17 @@
 
 ---
 
-🎥 **[Watch the 3-min Overview](loom-link-here)**  
+🎥 **[Watch the 3-min Overview] <div style="position: relative; padding-bottom: 86.53846153846155%; height: 0;"><iframe src="https://www.loom.com/embed/583c995397264bd69f55ab7bbc2c7d30?sid=0dbe35e7-0591-4f37-ac31-e207164f57e9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>**  
 *(How we're designing the next evolution of organizational systems)*
 
 ---
 
 ## The Problem I Lived
 
-In 2023, my AI startup crossed $1M ARR—and exposed a structural flaw in how modern companies operate.
+In 2022, my AI startup crossed $1M ARR—and exposed a structural flaw in how modern companies operate.
 
 We ran 47 tools. Spent $12K/month on overlapping systems. Lost 15 hours/week to friction.  
-But it wasn’t just inefficiency. It was incoherence.
+But it wasn’t just inefficiency. It was incoherence. We did not have the infrastrcuture needed to scale our operations to meet demand. We had enterprise contracts we could not fill and in 2024, we closed operations. 
 
 > **Organizations today have minds everywhere—but no shared intelligence.**  
 > Teams act in isolation. Tools multiply. Strategy fragments.
@@ -26,14 +26,14 @@ But it wasn’t just inefficiency. It was incoherence.
 
 We’re creating **the intelligence layer for adaptive organizations**—systems that transform scattered signals into coordinated action.
 
-### ✅ Live: SCALE Factor™  
+### LIVE: SCALE Factor™  
 A 5-minute diagnostic for operational intelligence  
 → Measures alignment, efficiency, and infrastructure potential  
 [🔗 Try it](https://scalefactor.nadis.ai)
 
 ![Screenshot: SCALE Factor Quick Fix Roadmap](./screenshots/scalefactor-2.png)
 
-### 🔍 Q4 2025: Symbi™  
+### Coming in Q4 2025: Symbi™  
 A living infrastructure layer  
 → Real-time visibility across people, tools, and decisions  
 → Pattern detection and predictive signals  
@@ -41,7 +41,7 @@ A living infrastructure layer
 
 ![Screenshot: insight card – Symbi Pulse Analysis Monitoring for Internal Infrastrcuture](./screenshots/symbi-screenshot.png)
 
-### 🌊 2026: ALICE™  
+### Coming in 2026: ALICE™  
 Computing that adapts to how humans think  
 → Ambient, intent-responsive interfaces  
 → Coordinated systems that evolve as you do  
@@ -52,13 +52,13 @@ Computing that adapts to how humans think
 
 ## What the Market Tells Us
 
-From 60+ conversations with founders, COOs, and CTOs:
+From 60+ conversations with founders, Heads of Ops, and CTOs:
 
-> “We hire brilliant people, then bury them in disconnected systems.”  
-> — SaaS CEO, Series B
+> "We have a $3M/year brain trust making decisions through a $50 Slack account. The infrastructure gap is killing our competitive advantage." 
+> — CTO, Series B FinTech
+> "We measure everything but understand nothing. It's like having perfect vision in 47 different directions—you still can't see where you're going."
+> — Head of Ops, 15-person start-up
 
-> “We’ve bought 30+ tools. Every one makes us slightly less aligned.”  
-> — VP Ops, 200-person startup
 
 From SCALE Factor diagnostics:
 - Avg. operational coherence: **38%**  
@@ -92,7 +92,7 @@ It’s about rearchitecting how organizations think.
 ## Why Me
 
 - **Technical Depth**: DARPA AI finalist, National Science Foundation Grant Winner, Google, AWS, NLP researcher  
-- **Operator Reality**: Scaled systems to $1M+ ARR  
+- **Operator Reality**: Scaled previous startups from 0 to $1M+ ARR  
 - **Pattern Recognition**: Synthesized 60+ exec interviews into product signals  
 - **Ecosystem Buildout**: Revenue and traction through SCALE Factor Accelerator
 
@@ -105,7 +105,7 @@ This isn’t a theory. It’s the next layer of systems thinking—grounded in e
 Join the shift from tools to intelligence:  
 - [Diagnose Your Org with SCALE Factor](https://scalefactor.nadis.ai)  
 - [Read Our FREE Intelligent Infrastructure Playbook](https://aiwithari.gitbook.io/intelligent-infrastructure/)  
-- [Explore Partnership](email ariana.abramson@gmail.com)
+- [Email Ariana to Explore a Partnership](mailto:ariana.abramson@gmail.com)
 
 ---
 

@@ -6,7 +6,7 @@
 This is a public one-pager memo for Nadis—a new infrastructure layer designed to transform how modern organizations operate.
 
 **Live GitBook**: [Nadis Memo](https://nadis.gitbook.io/nadis-intelligence-memo)
-🎥 **3-min Overview Video**: [loom-link-here]  
+🎥 **3-min Overview Video**: <div style="position: relative; padding-bottom: 86.53846153846155%; height: 0;"><iframe src="https://www.loom.com/embed/583c995397264bd69f55ab7bbc2c7d30?sid=0dbe35e7-0591-4f37-ac31-e207164f57e9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 **Try the Diagnostic**: [SCALE Factor Diagnostic](https://scalefactor.nadis.ai)
 
 ---
@@ -22,12 +22,11 @@ We’re building a three-layer product evolution:
 
 ---
 
-## Screenshots
+## Live Screenshots
 
-Coming soon:  
 - SCALE Factor diagnostic flow  
 - Insight cards from early user data  
-- ALICE mockup concepts
+- Symbi Infrastrcuture Monitoring Insights 
 
 ---
 
@@ -54,5 +53,5 @@ This memo is intended for:
 ## Contact
 
 **Ariana Abramson**, Founder  
-💬 [Send an email] ariana.abramson@gmail.com  
+💬 [Send an email](mailto:ariana.abramson@gmail.com) 
 🌐 [nadis.ai](https://nadis.ai)  
