@@ -3,7 +3,13 @@
 
 ---
 
-🎥 **[Watch the 3-min Overview] <div style="position: relative; padding-bottom: 86.53846153846155%; height: 0;"><iframe src="https://www.loom.com/embed/583c995397264bd69f55ab7bbc2c7d30?sid=0dbe35e7-0591-4f37-ac31-e207164f57e9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>**  
+**Watch the 3-min Overview**  
+*How we're designing the next evolution of organizational systems*
+
+<iframe src="https://www.loom.com/embed/583c995397264bd69f55ab7bbc2c7d30?sid=0dbe35e7-0591-4f37-ac31-e207164f57e9"
+frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen
+style="width:100%; height:400px;"></iframe>
+
 *(How we're designing the next evolution of organizational systems)*
 
 ---
