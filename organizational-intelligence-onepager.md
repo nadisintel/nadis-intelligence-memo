@@ -1,5 +1,4 @@
-organizational-intelligence-onepager.md
-# Building Organizational Intelligence  
+# Building Organizational Intelligence 
 ### The nervous system for companies that think, sense, and evolve
 
 ---
