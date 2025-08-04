@@ -18,7 +18,7 @@ But it wasn’t just inefficiency. It was incoherence.
 > **Organizations today have minds everywhere—but no shared intelligence.**  
 > Teams act in isolation. Tools multiply. Strategy fragments.
 
-![Screenshot: SCALE Factor diagnostic – “How many tools does your org use?”](image-link-here)
+![Screenshot: SCALE Factor diagnostic Score Reveal– “How ready is your infrastructure for scale”](./screenshots/scalefactor-1.png)
 
 ---
 
@@ -31,7 +31,7 @@ A 5-minute diagnostic for operational intelligence
 → Measures alignment, efficiency, and infrastructure potential  
 [🔗 Try it](https://scalefactor.nadis.ai)
 
-![Screenshot: SCALE Factor score reveal](image-link-here)
+![Screenshot: SCALE Factor Quick Fix Roadmap](./screenshots/scalefactor-2.png)
 
 ### 🔍 Q4 2025: Symbi™  
 A living infrastructure layer  
@@ -65,7 +65,7 @@ From SCALE Factor diagnostics:
 - Avg. waste identified: **$32K/month**  
 - **73%** of orgs lack foundational AI infrastructure
 
-![Screenshot: Benchmarking report – “Your org vs. industry baseline”](image-link-here)
+![Screenshot: Benchmarking report – “Your org vs. industry baseline”](./screenshots/scalefactor-3.png)
 
 ---
 

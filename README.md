@@ -5,9 +5,9 @@
 
 This is a public one-pager memo for Nadis—a new infrastructure layer designed to transform how modern organizations operate.
 
-🔗 **Live GitBook**: [coming soon]  
+**Live GitBook**: [Nadis Memo](https://nadis.gitbook.io/nadis-intelligence-memo)
 🎥 **3-min Overview Video**: [loom-link-here]  
-🧠 **Try the Diagnostic**: [https://scalefactor.nadis.ai](https://scalefactor.nadis.ai)
+**Try the Diagnostic**: [SCALE Factor Diagnostic](https://scalefactor.nadis.ai)
 
 ---
 
