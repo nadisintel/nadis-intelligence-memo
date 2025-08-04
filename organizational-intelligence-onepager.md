@@ -39,7 +39,7 @@ A living infrastructure layer
 → Pattern detection and predictive signals  
 → Alignment insights before friction occurs
 
-![Screenshot: insight card – “You’re losing $47K/month to fragmentation”](image-link-here)
+![Screenshot: insight card – Symbi Pulse Analysis Monitoring for Internal Infrastrcuture](./screenshots/symbi-screenshot.png)
 
 ### 🌊 2026: ALICE™  
 Computing that adapts to how humans think  
@@ -47,8 +47,6 @@ Computing that adapts to how humans think
 → Coordinated systems that evolve as you do  
 → Designed to make software disappear into intelligence
 → The end of app-switching and tool management
-
-![Mockup: ALICE ambient concept](image-link-here)
 
 ---
 
@@ -93,10 +91,10 @@ It’s about rearchitecting how organizations think.
 
 ## Why Me
 
-- **Technical Depth**: DARPA AI finalist, NSF researcher  
+- **Technical Depth**: DARPA AI finalist, National Science Foundation Grant Winner, Google, AWS, NLP researcher  
 - **Operator Reality**: Scaled systems to $1M+ ARR  
 - **Pattern Recognition**: Synthesized 60+ exec interviews into product signals  
-- **Ecosystem Buildout**: Revenue and traction through SCALE Factor
+- **Ecosystem Buildout**: Revenue and traction through SCALE Factor Accelerator
 
 This isn’t a theory. It’s the next layer of systems thinking—grounded in experience.
 
@@ -105,9 +103,9 @@ This isn’t a theory. It’s the next layer of systems thinking—grounded in e
 ## The Invitation
 
 Join the shift from tools to intelligence:  
-- [🧠 Diagnose Your Org](https://scalefactor.nadis.ai)  
-- [📖 Read the Manifesto](link-here)  
-- [🤝 Explore Partnership](calendly-link-here)
+- [Diagnose Your Org with SCALE Factor](https://scalefactor.nadis.ai)  
+- [Read Our FREE Intelligent Infrastructure Playbook](https://aiwithari.gitbook.io/intelligent-infrastructure/)  
+- [Explore Partnership](email ariana.abramson@gmail.com)
 
 ---
 
