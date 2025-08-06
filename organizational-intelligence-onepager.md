@@ -71,7 +71,7 @@ From SCALE Factor diagnostics:
 - Avg. waste identified: **$32K/month**  
 - **73%** of orgs lack foundational AI infrastructure
 
-![Screenshot: Benchmarking report – “Your org vs. industry baseline”](./screenshots/scalefactor-3.png)
+![Screenshot: SCALE Factor Assessment - "How are you able to serve your customers at scale?"](./screenshots/scalefactor-3.png)
 
 ---
 
